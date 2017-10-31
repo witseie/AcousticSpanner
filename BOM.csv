@@ -1,0 +1,20 @@
+Qty,Value,Device,Package,Parts,Description,,,,,,,,,,,,,,,,
+4,Optional,AUDIO-JACKPTH,AUDIO-JACK,JP1, JP2, JP4, JP5,3.5mm Audio Jack,,,,,,,,,,,,,
+4,,LED5MM,LED5MM,LED1, LED2, LED3, LED4,LED,,,,,,,,,,,,,
+1,Pin Header,M03LOCK,1X03_LOCK,JP3,Header 3,,,,,,,,,,,,,,,,
+17,Screw Terminal,W237-102,W237-102,X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15, X16, X17,WAGO SCREW CLAMP
+1,0.1u,C-EU025-025X050,C025-025X050,C27,CAPACITOR, European symbol,,,,,,,,,,,,,,,
+10,1000u,CPOL-EUE5-10.5,E5-10,5,C25, C29, C30, C32, C33, C37, C40, C41, C43, C44,POLARIZED CAPACITOR, European symbol,,,,,
+11,100n,C-EU025-025X050,C025-025X050,C26, C28, C31, C34, C36, C38, C39, C42, C45, C47, C48,CAPACITOR, European symbol,,,,,
+8,100nF,C-EU025-025X050,C025-025X050,C2, C5, C8, C11, C14, C17, C20, C23,CAPACITOR, European symbol,,,,,,,,
+1,10k,R-EU_0207/2V,0207/2V,R 17,RESISTOR, European symbol,,,,,,,,,,,,,,,
+1,1N5400,1N5400,DO201-15,D1,DIODE,,,,,,,,,,,,,,,,
+5,1k,R-EU_0207/2V,0207/2V,R 18,R 19,R 20,R 21,R 22,RESISTOR, European symbol,,,,,,,,,,,
+16,270 1%,R-EU_0207/2V,0207/2V,R 1,R 2,R 3,R 4,R 5,R 6,R 7,R 8,R 9,R 10,R 11,R 12,R 13,R 14,R 15,R 16,RESISTOR, European symbol
+16,4.7mH 5%,L-US0207/2V,0207/2V,L1, L2, L3, L4, L5, L6, L7, L8, L9, L10, L11, L12, L13, L14, L15, L16,INDUCTOR, American symbol
+16,47nF,C-EU025-025X050,C025-025X050,C1, C3, C4, C6, C7, C9, C10, C12, C13, C15, C16, C18, C19, C21, C22, C24,CAPACITOR, European symbol
+2,47u,CPOL-EUE2.5-5,E2,05-May,C35, C46,POLARIZED CAPACITOR, European symbol,,,,,,,,,,,,,
+1,Arduino Due,Arduino Due,Arduino Due,B1,,,,,,,,,,,,,,,,,
+1,POWER_JACKSLT,POWER_JACKSLT,POWER_JACK_SLOT,JP6,Power Jack,,,,,,,,,,,,,,,,
+2,TDA7375V,TDA7375V,MULTIWATT-15V,IC1, IC2,,,,,,,,,,,,,,,,
+1,TOGGLE,SWITCH-MOMENTARY-2PTH,TACTILE-PTH,S1,Various NO switches- pushbuttons, reed, etc,,,,,,,,,,,,,,
