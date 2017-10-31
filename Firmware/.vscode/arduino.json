@@ -1,0 +1,5 @@
+{
+    "board": "arduino:sam:arduino_due_x_dbg",
+    "sketch": "ArduinoAudioOAM.ino",
+    "port": "COM14"
+}
