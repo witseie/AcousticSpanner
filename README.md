@@ -1,8 +1,8 @@
-# AudioWrench
+# Acoustic Spanner
 An Arduino driven, phased array of speakers used to impart a torque on objects using sound waves.
 
 ## Credits
-* Concept and Prototypes: Ermes Toninelli (e.toninelli.1@research.gla.ac.uk)
+* Concepts and Prototypes: Ermes Toninelli, Stuart Brown, Graham Gibson, Matthew Edgar (e.toninelli.1@research.gla.ac.uk)
 * Electronics: Mitchell A. Cox (mitchell.cox@wits.ac.za)
 * Firmware: Mitchell A. Cox
 * Other hardware: Ermes Toninelli
@@ -14,7 +14,7 @@ An Arduino driven, phased array of speakers used to impart a torque on objects u
 * EPSRC
 * ISM CDT
 
-## What does the Audio Wrench do?
+## What does the Acoustic Spanner do?
 
 ...
 

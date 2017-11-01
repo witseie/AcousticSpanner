@@ -165,9 +165,9 @@ University of Glasgow</text>
 <wire x1="0" y1="43.18" x2="15.24" y2="43.18" width="0.3048" layer="112"/>
 <wire x1="15.24" y1="43.18" x2="15.24" y2="63.3222" width="0.3048" layer="112"/>
 <wire x1="0" y1="69.85" x2="13.97" y2="69.85" width="0.3048" layer="112"/>
-<text x="93.98" y="7.62" size="1.6764" layer="52" font="vector" ratio="17" rot="MR0">https://github.com/witseie/AudioWrench</text>
-<text x="20.955" y="40.3225" size="1.6764" layer="21" font="vector" ratio="17">https://github.com/witseie/AudioWrench</text>
-<text x="36.83" y="7.62" size="1.6764" layer="52" font="vector" ratio="17" rot="MR0">ISM CDT, EPSRC</text>
+<text x="93.98" y="7.62" size="1.6764" layer="52" font="vector" ratio="17" rot="MR0">https://github.com/witseie/AcousticSpanner</text>
+<text x="20.955" y="40.3225" size="1.6764" layer="21" font="vector" ratio="17">https://github.com/witseie/AcousticSpanner</text>
+<text x="100.33" y="62.23" size="1.6764" layer="52" font="vector" ratio="17" rot="MR270">ISM CDT, EPSRC</text>
 </plain>
 <libraries>
 <library name="SparkFun-Boards">
