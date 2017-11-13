@@ -19920,6 +19920,7 @@ University of the Witwatersrand, South Africa
 University of Glasgow, Scotland
 EPSRC
 ISM CDT</text>
+<text x="325.12" y="22.86" size="1.778" layer="91">FIXME: Reverse pol. on X3, X5, X11, X13</text>
 </plain>
 <instances>
 <instance part="B1" gate="G$1" x="109.22" y="-20.32"/>
