@@ -1,9 +1,8 @@
 /*
  * ArduinoAudioOAM by Mitchell A. Cox (mitchell.cox@wits.ac.za)
- * https://github.com/witseie/ArduinoAudioOAM
+ * https://github.com/witseie/AcousticSpanner
  * MIT License
  * 
- * Designed to go with hardware: https://github.com/witseie/MegaSineShield
  * 
  * This code is written for the Arduino Due. 
  * 8 PWMs are used to generate sine waves pi/4 out of phase with each other.
@@ -22,7 +21,6 @@
  * 
  */
 
-//#include "lib\pwm_lib\pwm_lib.h"
 #include <Arduino.h>
 
 // Tweakable Parameters:
@@ -53,7 +51,6 @@
 #define LED_DELAY_MS 100 //ms
 
 // Calculated / Fixed Parameters:
-#define PHASE_SHIFT 2 * PI *OAM_l / NUM_OUTPUTS
 #define PI_OVER_256 PI / 256.0
 
 // Redefine internal Arduino stuff for analogWrite to use more than 1kHz freq.
