@@ -1,7 +1,7 @@
 # DIY Acoustic Spanner
 
 ## Credits
-* Ermes Toninelli, Mitchell A. Cox, Stuart D. Brown, Graham M. Gibson, Matthew P. Edgar, Andrew Forbes, Miles J. Padgett 
+* Ermes Toninelli, Mitchell A. Cox, Graham M. Gibson, Stuart D. Brown, Matthew P. Edgar, Andrew Forbes, Miles J. Padgett 
 (Andrew.Forbes@wits.ac.za; Miles.Padgett@glasgow.ac.uk)
 
 ## Acknowledgements
